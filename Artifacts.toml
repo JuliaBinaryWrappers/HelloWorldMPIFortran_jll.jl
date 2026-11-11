@@ -1,7 +1,6 @@
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "90bd85944bf9461944974067bb50be6057fa9597"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
 os = "macos"
@@ -12,7 +11,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "265d3be8cb2bc4962725570f4cd349f8b0e23ac2"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
@@ -23,7 +21,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "332fe176c47dd51f7cbe8cb9969540456187638e"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
@@ -34,7 +31,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "0bcf589eabe3af10a6bf44aa4496fdde06bfe9c8"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
@@ -45,7 +41,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "2f848eeb7afe670f37288e235268470703d063ea"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -57,7 +52,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "d3ba7ac463c0e0159b4584020e9bccdcc575d8fe"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -69,7 +63,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "ae51db5b3b4a39dfc304f952b894192bc99836f9"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -81,7 +74,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "a5d693a4afa24a50cb5f2c131a25d16b4661e771"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -93,7 +85,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "1234b8b2d9169fc1365b32f1fbeab6ab2f971ec3"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -105,7 +96,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "81b0b0ede0627a59e687c7c6fae84c2497971d72"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -117,7 +107,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "f5c9ceda87b1f077800a5b4d069fb6c5525a0336"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -129,7 +118,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "51b9cbfa9537430eab0579586afbd5192419b07e"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
 os = "freebsd"
@@ -140,7 +128,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "f1f74a6cf3d5f73b30379f18567f192aff28363a"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
@@ -151,7 +138,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "11421a5bde3d82e0aabdab890e2d9890e4fad1a3"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "freebsd"
@@ -162,7 +148,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "aarch64"
 git-tree-sha1 = "fa1cef586dfdec0d00788324ecd6ceee7eac2454"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "freebsd"
@@ -174,7 +159,6 @@ os = "freebsd"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "8d7874465c4fa32fd5e285d94e3b805edd503b25"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -187,7 +171,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "28674fc235fa4ca81597df6bc7c4d7de6b42cbc9"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -200,7 +183,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "6b9549bb63809ab03fb426968b47a28e5e887797"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -213,7 +195,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "1e2066097800ba1886f19dea313afdb68f0745a5"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -226,7 +207,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "e322af06cb4657eac81cc9efba0c80a572b21b95"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -239,7 +219,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "d927656a4e2aa842daac44696bf7747c0bed42ea"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -252,7 +231,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "d6b0db3a7cb07328f31f9248c25a24dcad3030df"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -265,7 +243,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "83e3edd7234b82401462627a744b9630a77ae084"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -278,7 +255,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "657c55a600a03443492d0a133d4093646a1e8b65"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -291,7 +267,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "496ee8f9d10d32b6424bc5b60851d0f9b8731d66"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -304,7 +279,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "7b8cc5a17afc4f1a351e4bcfa85d85777052ade0"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -317,7 +291,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "cc14c2c55fc2b8142c25dc261026c209ffab329b"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -330,7 +303,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "1df15e0d700a5ab7eaeb5a46a2b2dc5e825e57ac"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -342,7 +314,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "6ef173e8b6f9f23bda35d68f757c95ce266aec3f"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -354,7 +325,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "691442187d9b00cf059ab11aec54a0b72510387a"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -366,7 +336,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "7d5bbc79ce813090665bf2bfb0232ae345d81560"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -378,7 +347,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "509a1f0e8474be636074618e3d148da9f5de5885"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -390,7 +358,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "4431396f4df051097cd88ba53bd83811fd2c27b9"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -402,7 +369,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "25adcdd19f45852ad22f891cd198062128b42927"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -414,7 +380,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "0f4ce5ab57a04f2cc18b3356dc0a827af5d7834c"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -426,7 +391,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "i686"
 git-tree-sha1 = "41a14fac1a80ee7aa2256fb378e70604e6bfde46"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
@@ -437,7 +401,6 @@ os = "windows"
 [[HelloWorldMPIFortran]]
 arch = "powerpc64le"
 git-tree-sha1 = "1a19d932d22bed50494cec03e5feb32fc90f40be"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -449,7 +412,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "powerpc64le"
 git-tree-sha1 = "eec9cde5043045049ce54ffb8cccb6e24c9e2f7c"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -461,7 +423,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "powerpc64le"
 git-tree-sha1 = "001b689c8da1bcfaba168d535b563c03d2f1785d"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -473,7 +434,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "powerpc64le"
 git-tree-sha1 = "0817d70c7bae18a8586d3e8f316009e57b3817a4"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -485,7 +445,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "riscv64"
 git-tree-sha1 = "89f510d0d1f1cd1fe7016e73acd5e905ef16c977"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -497,7 +456,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "riscv64"
 git-tree-sha1 = "96b559370062e48f723e4b5aa71fce436578a2d0"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -509,7 +467,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "riscv64"
 git-tree-sha1 = "61d2f1fbd7d3f50dcfc7d05290e13e4b860682cd"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -521,7 +478,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "riscv64"
 git-tree-sha1 = "d1214b65b638c79f5b52396e0ce5e9e0b119eced"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -533,7 +489,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "376ce788e4a3e7bbf50b8626e23714d8c4774d9c"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
 os = "macos"
@@ -544,7 +499,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "1bbcdf3df6ee2c95e5d762f316dd8cf0d17075f9"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
@@ -555,7 +509,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "6775deff590951a11c407be64229ad1eb118d993"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
@@ -566,7 +519,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "c0e3eab42a326cad7504bbd1eafd42c3cb177bc5"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
@@ -577,7 +529,6 @@ os = "macos"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "b2a873768f7aab5b6d51e2976f0cc2b4c841c151"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -589,7 +540,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "9e9a12c1d13c024344a6ba47041db7b25fb283f6"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -601,7 +551,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "aa3022e7faf2436b05947e77fa07925efd66683c"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
@@ -613,7 +562,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "ea22a286bc264d9a42f33d00d163f7dc48e4e6c8"
-lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -625,7 +573,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "9c8e0297cb01d81339aec784eab9cce33c726956"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
@@ -637,7 +584,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "6a7603031468e6e6715f8c574c3c099003c8cc58"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "mpich"
@@ -649,7 +595,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "433d8232124a5884dc93520371efefc30cc8f9ae"
-lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
@@ -661,7 +606,6 @@ os = "linux"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "4e19f8ea41c8b23aec6aaf502de78aa1740bcd4b"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpiabi"
 os = "freebsd"
@@ -672,7 +616,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "d5650796acaf182a6fe555af992f77147b6ade9c"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
@@ -683,7 +626,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "eb1dc621be9570118a32f9d47bcb3ef279fd5dba"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "freebsd"
@@ -694,7 +636,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "81dbbed1e85935c9c201a924fa36c67073c6a304"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "freebsd"
@@ -705,7 +646,6 @@ os = "freebsd"
 [[HelloWorldMPIFortran]]
 arch = "x86_64"
 git-tree-sha1 = "31d585ea09f1e409cb4abae4062f34e54f2a36a3"
-lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
